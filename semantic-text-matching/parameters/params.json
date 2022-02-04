@@ -1,0 +1,10 @@
+{
+    "candidate_num": 20,
+    "batch_size": 2,
+    "accum_count": 2,
+    "max_lr": 0.001,
+    "margin": 0.01,
+    "warmup_steps": 10000,
+    "n_epochs": 5,
+    "valid_steps": 2
+}
